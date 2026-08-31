@@ -1,0 +1,3006 @@
+{
+ "subject": "english",
+ "publisher": "何嘉仁 eSTAR",
+ "questions": [
+  {
+   "id": "e31-01",
+   "q": "選出正確的回答：What's your name?",
+   "o": [
+    "I'm fine.",
+    "My name is Amy.",
+    "It's a pen.",
+    "Yes, I am."
+   ],
+   "a": 1,
+   "ex": "What's your name? 是問名字，要用 My name is ___. 或 I'm ___. 回答。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-02",
+   "q": "「我的名字是 Tom。」英文怎麼說？",
+   "o": [
+    "My name are Tom.",
+    "I name is Tom.",
+    "Me name is Tom.",
+    "My name is Tom."
+   ],
+   "a": 3,
+   "ex": "name 是單數，be 動詞用 is：My name is Tom.",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-03",
+   "q": "選出正確的字填入句子：Hello! I ___ Sam.",
+   "o": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "a": 0,
+   "ex": "主詞是 I，be 動詞要用 am。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-04",
+   "q": "單字 name 的中文意思是？",
+   "o": [
+    "號碼",
+    "顏色",
+    "名字",
+    "書本"
+   ],
+   "a": 2,
+   "ex": "name 是「名字」，What's your name? 就是問你的名字。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-05",
+   "q": "選出「名字」的正確拼法。",
+   "o": [
+    "nema",
+    "naem",
+    "name",
+    "nmae"
+   ],
+   "a": 2,
+   "ex": "「名字」的正確拼法是 n-a-m-e。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-06",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "What is your name?",
+    "What your name is?",
+    "Your is what name?",
+    "Is what your name?"
+   ],
+   "a": 0,
+   "ex": "疑問詞 What 放句首，接 be 動詞 is，再接 your name。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-07",
+   "q": "選出正確的回應：Hello, I'm Lisa.",
+   "o": [
+    "It's blue.",
+    "Thank you.",
+    "I'm ten years old.",
+    "Hi, Lisa. Nice to meet you."
+   ],
+   "a": 3,
+   "ex": "別人自我介紹時，可以回答 Nice to meet you.（很高興認識你）。",
+   "g": 3,
+   "s": 1,
+   "u": "Name（名字）"
+  },
+  {
+   "id": "e31-08",
+   "q": "選出正確的回答：How old are you?",
+   "o": [
+    "I'm Amy.",
+    "I'm nine.",
+    "It's nine o'clock.",
+    "Yes, I am."
+   ],
+   "a": 1,
+   "ex": "How old are you? 是問年紀，用 I'm ＋數字回答。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-09",
+   "q": "單字 ten 的中文意思是？",
+   "o": [
+    "十",
+    "二",
+    "五",
+    "三"
+   ],
+   "a": 0,
+   "ex": "ten 是數字 10；two 是 2、five 是 5。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-10",
+   "q": "「七」的英文是？",
+   "o": [
+    "six",
+    "eight",
+    "seven",
+    "three"
+   ],
+   "a": 2,
+   "ex": "seven 是 7；six 是 6、eight 是 8、three 是 3。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-11",
+   "q": "依照順序，空格應填入哪個數字？one, two, ___, four",
+   "o": [
+    "five",
+    "three",
+    "six",
+    "ten"
+   ],
+   "a": 1,
+   "ex": "數字順序是 one(1)、two(2)、three(3)、four(4)。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-12",
+   "q": "選出「八」的正確拼法。",
+   "o": [
+    "eigth",
+    "eght",
+    "aight",
+    "eight"
+   ],
+   "a": 3,
+   "ex": "「八」的正確拼法是 e-i-g-h-t。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-13",
+   "q": "選出正確的字填入句子：How old ___ you?",
+   "o": [
+    "am",
+    "is",
+    "be",
+    "are"
+   ],
+   "a": 3,
+   "ex": "主詞是 you，be 動詞用 are。",
+   "g": 3,
+   "s": 1,
+   "u": "Number（數字）"
+  },
+  {
+   "id": "e31-14",
+   "q": "選出正確的回答：What's this?",
+   "o": [
+    "Yes, it is.",
+    "It's a pen.",
+    "It's red.",
+    "He's my father."
+   ],
+   "a": 1,
+   "ex": "What's this? 是問「這是什麼」，用 It's a ___. 回答物品名稱。",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-15",
+   "q": "單字 pencil 的中文意思是？",
+   "o": [
+    "鋼筆",
+    "尺",
+    "鉛筆",
+    "橡皮擦"
+   ],
+   "a": 2,
+   "ex": "pencil 是鉛筆；pen 才是鋼筆／原子筆。",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-16",
+   "q": "「尺」的英文是？",
+   "o": [
+    "ruler",
+    "eraser",
+    "pencil",
+    "book"
+   ],
+   "a": 0,
+   "ex": "ruler 是尺；eraser 是橡皮擦。",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-17",
+   "q": "選出正確的字填入句子：This is ___ eraser.",
+   "o": [
+    "an",
+    "a",
+    "am",
+    "are"
+   ],
+   "a": 0,
+   "ex": "eraser 開頭是母音 e，冠詞要用 an。",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-18",
+   "q": "選出「書」的正確拼法。",
+   "o": [
+    "bok",
+    "booke",
+    "book",
+    "buk"
+   ],
+   "a": 2,
+   "ex": "「書」的正確拼法是 b-o-o-k，中間有兩個 o。",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-19",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Is your this pencil?",
+    "This your pencil is?",
+    "Your is this pencil?",
+    "Is this your pencil?"
+   ],
+   "a": 3,
+   "ex": "be 動詞問句把 Is 放句首：Is this your pencil?",
+   "g": 3,
+   "s": 1,
+   "u": "Stationery（文具用品）"
+  },
+  {
+   "id": "e31-20",
+   "q": "選出正確的回答：What color is it?",
+   "o": [
+    "It's a book.",
+    "It's blue.",
+    "Yes, it is.",
+    "I like it."
+   ],
+   "a": 1,
+   "ex": "What color is it? 是問顏色，要回答顏色，例如 It's blue.",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e31-21",
+   "q": "蘋果常見的顏色，英文是？",
+   "o": [
+    "blue",
+    "black",
+    "red",
+    "white"
+   ],
+   "a": 2,
+   "ex": "蘋果常見是紅色，英文是 red。",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e31-22",
+   "q": "單字 yellow 的中文意思是？",
+   "o": [
+    "黃色",
+    "綠色",
+    "紫色",
+    "橘色"
+   ],
+   "a": 0,
+   "ex": "yellow 是黃色，例如香蕉是 yellow。",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e31-23",
+   "q": "選出正確的字填入句子：The sky ___ blue.",
+   "o": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "a": 1,
+   "ex": "The sky（天空）是單數，be 動詞用 is。",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e31-24",
+   "q": "選出「綠色」的正確拼法。",
+   "o": [
+    "grean",
+    "gren",
+    "grene",
+    "green"
+   ],
+   "a": 3,
+   "ex": "「綠色」的正確拼法是 g-r-e-e-n。",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e31-25",
+   "q": "「黑色」的英文是？",
+   "o": [
+    "white",
+    "brown",
+    "blue",
+    "black"
+   ],
+   "a": 3,
+   "ex": "black 是黑色；white 是白色、brown 是棕色。",
+   "g": 3,
+   "s": 1,
+   "u": "Color（顏色）"
+  },
+  {
+   "id": "e32-01",
+   "q": "選出正確的回答：Do you have a dog?",
+   "o": [
+    "Yes, I do.",
+    "Yes, I am.",
+    "Yes, it is.",
+    "No, I am not."
+   ],
+   "a": 0,
+   "ex": "Do 開頭的問句，要用 do 回答：Yes, I do. 或 No, I don't.",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-02",
+   "q": "「我有一隻貓。」英文怎麼說？",
+   "o": [
+    "I has a cat.",
+    "I have cat a.",
+    "I am a cat.",
+    "I have a cat."
+   ],
+   "a": 3,
+   "ex": "主詞 I 動詞用 have；a 要放在 cat 前面。",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-03",
+   "q": "單字 rabbit 的中文意思是？",
+   "o": [
+    "老鼠",
+    "兔子",
+    "烏龜",
+    "青蛙"
+   ],
+   "a": 1,
+   "ex": "rabbit 是兔子。",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-04",
+   "q": "「鳥」的英文是？",
+   "o": [
+    "dog",
+    "bird",
+    "fish",
+    "cat"
+   ],
+   "a": 1,
+   "ex": "bird 是鳥；dog 是狗、fish 是魚、cat 是貓。",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-05",
+   "q": "選出正確的字填入句子：Do you ___ a pet?",
+   "o": [
+    "has",
+    "is",
+    "are",
+    "have"
+   ],
+   "a": 3,
+   "ex": "Do 問句後面動詞用原形 have，不能用 has。",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-06",
+   "q": "選出「狗」的正確拼法。",
+   "o": [
+    "dog",
+    "dogg",
+    "dawg",
+    "dob"
+   ],
+   "a": 0,
+   "ex": "「狗」的正確拼法是 d-o-g。",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Have you do a bird?",
+    "You do have a bird?",
+    "Do you have a bird?",
+    "Do have you a bird?"
+   ],
+   "a": 2,
+   "ex": "一般動詞問句：Do ＋主詞＋動詞，Do you have...?",
+   "g": 3,
+   "s": 2,
+   "u": "Pets（寵物）"
+  },
+  {
+   "id": "e32-08",
+   "q": "He is very tall. 句中 tall 的中文意思是？",
+   "o": [
+    "矮的",
+    "胖的",
+    "瘦的",
+    "高的"
+   ],
+   "a": 3,
+   "ex": "tall 是「高的」；short 是「矮的」。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-09",
+   "q": "「她很矮。」英文怎麼說？",
+   "o": [
+    "She is tall.",
+    "She is short.",
+    "She are short.",
+    "He is short."
+   ],
+   "a": 1,
+   "ex": "「她」用 She，be 動詞用 is；short 是矮的。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-10",
+   "q": "選出正確的字填入句子：She ___ long hair.",
+   "o": [
+    "have",
+    "is",
+    "has",
+    "are"
+   ],
+   "a": 2,
+   "ex": "主詞是 She（第三人稱單數），動詞用 has。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-11",
+   "q": "big（大的）的相反詞是？",
+   "o": [
+    "small",
+    "tall",
+    "long",
+    "old"
+   ],
+   "a": 0,
+   "ex": "big 是大的，相反詞是 small（小的）。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-12",
+   "q": "選出正確的字填入句子：My brother ___ tall and thin.",
+   "o": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "a": 0,
+   "ex": "My brother 是單數，be 動詞用 is。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-13",
+   "q": "選出「頭髮」的正確拼法。",
+   "o": [
+    "hare",
+    "heir",
+    "hair",
+    "haer"
+   ],
+   "a": 2,
+   "ex": "「頭髮」的正確拼法是 h-a-i-r；hare 是野兔。",
+   "g": 3,
+   "s": 2,
+   "u": "How You Look（身材外貌）"
+  },
+  {
+   "id": "e32-14",
+   "q": "選出正確的回答：Who's she?",
+   "o": [
+    "He's my father.",
+    "She's my mother.",
+    "It's my book.",
+    "She's fine."
+   ],
+   "a": 1,
+   "ex": "Who's she? 問「她是誰」，用 She's my ___. 回答。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-15",
+   "q": "單字 father 的中文意思是？",
+   "o": [
+    "媽媽",
+    "哥哥",
+    "爺爺",
+    "爸爸"
+   ],
+   "a": 3,
+   "ex": "father 是爸爸；mother 是媽媽。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-16",
+   "q": "「哥哥（或弟弟）」的英文是？",
+   "o": [
+    "sister",
+    "mother",
+    "grandpa",
+    "brother"
+   ],
+   "a": 3,
+   "ex": "brother 是兄弟；sister 是姊妹。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-17",
+   "q": "選出正確的字填入句子：___ is my sister. She is cute.",
+   "o": [
+    "He",
+    "She",
+    "It",
+    "I"
+   ],
+   "a": 1,
+   "ex": "後面說 She is cute.，可知主詞是女生，用 She。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-18",
+   "q": "選出「媽媽」的正確拼法。",
+   "o": [
+    "mother",
+    "mather",
+    "mothor",
+    "muther"
+   ],
+   "a": 0,
+   "ex": "「媽媽」的正確拼法是 m-o-t-h-e-r。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-19",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "He my grandfather is.",
+    "He is grandfather my.",
+    "He is my grandfather.",
+    "My he is grandfather."
+   ],
+   "a": 2,
+   "ex": "直述句順序：主詞 He ＋ be 動詞 is ＋補語。",
+   "g": 3,
+   "s": 2,
+   "u": "Family（家人）"
+  },
+  {
+   "id": "e32-20",
+   "q": "選出正確的回答：Is he a teacher?",
+   "o": [
+    "Yes, he does.",
+    "Yes, he is.",
+    "Yes, she is.",
+    "No, he is."
+   ],
+   "a": 1,
+   "ex": "Is 開頭問句用 be 動詞回答；問的是 he，不能答 she。",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e32-21",
+   "q": "單字 doctor 的中文意思是？",
+   "o": [
+    "老師",
+    "司機",
+    "農夫",
+    "醫生"
+   ],
+   "a": 3,
+   "ex": "doctor 是醫生。",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e32-22",
+   "q": "「廚師」的英文是？",
+   "o": [
+    "cooker",
+    "kitchen",
+    "cook",
+    "doctor"
+   ],
+   "a": 2,
+   "ex": "廚師是 cook；cooker 是炊具，不是人。",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e32-23",
+   "q": "選出正確的字填入句子：My mother is ___ nurse.",
+   "o": [
+    "a",
+    "an",
+    "two",
+    "is"
+   ],
+   "a": 0,
+   "ex": "nurse 開頭是子音，冠詞用 a。",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e32-24",
+   "q": "選出「老師」的正確拼法。",
+   "o": [
+    "teacher",
+    "techer",
+    "teatcher",
+    "teachar"
+   ],
+   "a": 0,
+   "ex": "「老師」的正確拼法是 t-e-a-c-h-e-r。",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e32-25",
+   "q": "選出正確的字填入句子：Is she a farmer? No, she ___.",
+   "o": [
+    "is",
+    "not",
+    "isn't",
+    "aren't"
+   ],
+   "a": 2,
+   "ex": "否定簡答用 No, she isn't.",
+   "g": 3,
+   "s": 2,
+   "u": "Occupation（職業）"
+  },
+  {
+   "id": "e41-01",
+   "q": "選出正確的回答：Can you swim?",
+   "o": [
+    "Yes, I can.",
+    "Yes, I do.",
+    "Yes, I am.",
+    "No, I don't."
+   ],
+   "a": 0,
+   "ex": "Can 開頭的問句要用 can 回答：Yes, I can. 或 No, I can't.",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-02",
+   "q": "「我會騎腳踏車。」英文怎麼說？",
+   "o": [
+    "I can rides a bike.",
+    "I can riding a bike.",
+    "I can ride a bike.",
+    "I am ride a bike."
+   ],
+   "a": 2,
+   "ex": "can 後面接原形動詞 ride。",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-03",
+   "q": "選出正確的字填入句子：He can ___ very well.",
+   "o": [
+    "sings",
+    "singing",
+    "sing",
+    "to sing"
+   ],
+   "a": 2,
+   "ex": "can 是助動詞，後面接原形動詞 sing。",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-04",
+   "q": "單字 draw 的中文意思是？",
+   "o": [
+    "畫畫",
+    "跳舞",
+    "唱歌",
+    "游泳"
+   ],
+   "a": 0,
+   "ex": "draw 是畫畫；dance 是跳舞、sing 是唱歌。",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-05",
+   "q": "選出「游泳」的正確拼法。",
+   "o": [
+    "swin",
+    "swimm",
+    "swem",
+    "swim"
+   ],
+   "a": 3,
+   "ex": "「游泳」的正確拼法是 s-w-i-m。",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-06",
+   "q": "選出正確的字填入句子：Can she dance? No, she ___.",
+   "o": [
+    "don't",
+    "can't",
+    "isn't",
+    "not"
+   ],
+   "a": 1,
+   "ex": "Can 問句的否定簡答是 No, she can't.",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Can you play basketball?",
+    "You can play basketball?",
+    "Can play you basketball?",
+    "Play you can basketball?"
+   ],
+   "a": 0,
+   "ex": "can 的問句把 Can 放句首：Can ＋主詞＋動詞。",
+   "g": 4,
+   "s": 1,
+   "u": "Things You Can Do（能力）"
+  },
+  {
+   "id": "e41-08",
+   "q": "選出正確的回答：How's the weather?",
+   "o": [
+    "It's Sunday.",
+    "I'm fine.",
+    "It's sunny.",
+    "It's a sun."
+   ],
+   "a": 2,
+   "ex": "How's the weather? 問天氣，用 It's ＋天氣形容詞回答；注意 sunny（晴朗）和 Sunday（星期日）不同。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-09",
+   "q": "單字 rainy 的中文意思是？",
+   "o": [
+    "晴朗的",
+    "下雨的",
+    "多雲的",
+    "下雪的"
+   ],
+   "a": 1,
+   "ex": "rainy 是下雨的；rain 是雨。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-10",
+   "q": "「多雲的」英文是？",
+   "o": [
+    "cloud",
+    "sunny",
+    "windy",
+    "cloudy"
+   ],
+   "a": 3,
+   "ex": "cloudy 是多雲的（形容詞）；cloud 是雲（名詞）。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-11",
+   "q": "今天太陽很大、天氣很熱。選出正確的字：It's hot and ___ today.",
+   "o": [
+    "rainy",
+    "snowy",
+    "cold",
+    "sunny"
+   ],
+   "a": 3,
+   "ex": "太陽很大是 sunny（晴朗的）。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-12",
+   "q": "選出「風大的」的正確拼法。",
+   "o": [
+    "windey",
+    "windy",
+    "winddy",
+    "wendy"
+   ],
+   "a": 1,
+   "ex": "「風大的」是 wind（風）加 y：w-i-n-d-y。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-13",
+   "q": "選出正確的字填入句子：It is snowy and very ___.",
+   "o": [
+    "hot",
+    "sunny",
+    "cold",
+    "warm"
+   ],
+   "a": 2,
+   "ex": "下雪（snowy）時天氣很冷，用 cold。",
+   "g": 4,
+   "s": 1,
+   "u": "Weather（天氣）"
+  },
+  {
+   "id": "e41-14",
+   "q": "選出正確的回答：Do you like fish?",
+   "o": [
+    "No, I don't.",
+    "No, I'm not.",
+    "No, I can't.",
+    "No, it isn't."
+   ],
+   "a": 0,
+   "ex": "Do 問句用 do 回答：Yes, I do. 或 No, I don't.",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-15",
+   "q": "「我喜歡蛋。」英文怎麼說？",
+   "o": [
+    "I like eggs.",
+    "I likes eggs.",
+    "I like a eggs.",
+    "I am like eggs."
+   ],
+   "a": 0,
+   "ex": "主詞 I 動詞用 like；eggs 是複數，前面不加 a。",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-16",
+   "q": "單字 hamburger 的中文意思是？",
+   "o": [
+    "熱狗",
+    "披薩",
+    "漢堡",
+    "三明治"
+   ],
+   "a": 2,
+   "ex": "hamburger 是漢堡。",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-17",
+   "q": "選出正確的字填入句子：Does he like milk? Yes, he ___.",
+   "o": [
+    "do",
+    "is",
+    "likes",
+    "does"
+   ],
+   "a": 3,
+   "ex": "Does 問句的簡答用 does：Yes, he does.",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-18",
+   "q": "選出「麵包」的正確拼法。",
+   "o": [
+    "bred",
+    "bread",
+    "braed",
+    "breed"
+   ],
+   "a": 1,
+   "ex": "「麵包」的正確拼法是 b-r-e-a-d。",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-19",
+   "q": "「果汁」的英文是？",
+   "o": [
+    "water",
+    "milk",
+    "juice",
+    "tea"
+   ],
+   "a": 2,
+   "ex": "juice 是果汁；water 是水、milk 是牛奶、tea 是茶。",
+   "g": 4,
+   "s": 1,
+   "u": "Food I（食物一）"
+  },
+  {
+   "id": "e41-20",
+   "q": "選出正確的回答：What do you want?",
+   "o": [
+    "I want a hot dog.",
+    "Yes, I want.",
+    "I am a hot dog.",
+    "It's a hot dog."
+   ],
+   "a": 0,
+   "ex": "What do you want? 問「你想要什麼」，用 I want ___. 回答。",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e41-21",
+   "q": "「你想要什麼？」英文怎麼說？",
+   "o": [
+    "What are you want?",
+    "What do you want?",
+    "What you want?",
+    "What does you want?"
+   ],
+   "a": 1,
+   "ex": "主詞 you 的問句用助動詞 do：What do you want?",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e41-22",
+   "q": "單字 noodles 的中文意思是？",
+   "o": [
+    "米飯",
+    "湯",
+    "蛋糕",
+    "麵"
+   ],
+   "a": 3,
+   "ex": "noodles 是麵，通常用複數。",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e41-23",
+   "q": "選出正確的字填入句子：I'm thirsty. I want some ___.",
+   "o": [
+    "bread",
+    "rice",
+    "cake",
+    "water"
+   ],
+   "a": 3,
+   "ex": "thirsty 是口渴的，口渴要喝水（water）。",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e41-24",
+   "q": "選出「披薩」的正確拼法。",
+   "o": [
+    "piza",
+    "pizza",
+    "pizzia",
+    "pisza"
+   ],
+   "a": 1,
+   "ex": "「披薩」的正確拼法是 p-i-z-z-a，有兩個 z。",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e41-25",
+   "q": "選出正確的字填入句子：___ you want some tea?",
+   "o": [
+    "Are",
+    "Is",
+    "Does",
+    "Do"
+   ],
+   "a": 3,
+   "ex": "主詞是 you，問句用助動詞 Do。",
+   "g": 4,
+   "s": 1,
+   "u": "Food II（食物二）"
+  },
+  {
+   "id": "e42-01",
+   "q": "選出正確的回答：What time is it?",
+   "o": [
+    "It's Monday.",
+    "It's ten o'clock.",
+    "It's October.",
+    "I'm ten."
+   ],
+   "a": 1,
+   "ex": "What time is it? 問時間，用 It's ＋時間回答。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-02",
+   "q": "「現在三點鐘。」英文怎麼說？",
+   "o": [
+    "It's three clock.",
+    "It's three o'clock.",
+    "Is three o'clock.",
+    "It three o'clock is."
+   ],
+   "a": 1,
+   "ex": "整點報時用 It's ＋數字＋ o'clock。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-03",
+   "q": "選出正確的字填入句子：What ___ is it? It's nine o'clock.",
+   "o": [
+    "day",
+    "color",
+    "name",
+    "time"
+   ],
+   "a": 3,
+   "ex": "回答是時間（nine o'clock），所以要問 What time。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-04",
+   "q": "o'clock 用在什麼時候？",
+   "o": [
+    "整點（幾點鐘）",
+    "三十分",
+    "只能用在早上",
+    "講星期幾"
+   ],
+   "a": 0,
+   "ex": "o'clock 只用在整點，例如 It's two o'clock.（兩點整）。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-05",
+   "q": "選出「時鐘」的正確拼法。",
+   "o": [
+    "clok",
+    "colck",
+    "clock",
+    "clocke"
+   ],
+   "a": 2,
+   "ex": "「時鐘」的正確拼法是 c-l-o-c-k。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-06",
+   "q": "選出正確的字填入句子：It's seven o'clock in the morning. I ___ up and go to school.",
+   "o": [
+    "go",
+    "do",
+    "make",
+    "get"
+   ],
+   "a": 3,
+   "ex": "get up 是「起床」的固定用法。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Now is it eight o'clock.",
+    "It is eight o'clock now.",
+    "Eight o'clock is it now.",
+    "It eight o'clock is now."
+   ],
+   "a": 1,
+   "ex": "直述句順序：It is ＋時間＋ now。",
+   "g": 4,
+   "s": 2,
+   "u": "Time（時間）"
+  },
+  {
+   "id": "e42-08",
+   "q": "選出正確的回答：What are you doing?",
+   "o": [
+    "I read a book every day.",
+    "Yes, I am.",
+    "I'm reading a book.",
+    "I'm a student."
+   ],
+   "a": 2,
+   "ex": "問「正在做什麼」，要用現在進行式 I'm ＋ V-ing 回答。",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-09",
+   "q": "選出正確的字填入句子：She is ___ TV now.",
+   "o": [
+    "watching",
+    "watch",
+    "watches",
+    "watched"
+   ],
+   "a": 0,
+   "ex": "be 動詞＋ V-ing 表示正在做的動作：is watching。",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-10",
+   "q": "「他正在唱歌。」英文怎麼說？",
+   "o": [
+    "He is singing.",
+    "He is sing.",
+    "He singing.",
+    "He sings now."
+   ],
+   "a": 0,
+   "ex": "現在進行式：be 動詞＋動詞 ing，He is singing.",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-11",
+   "q": "動詞 running 的原形是？",
+   "o": [
+    "runn",
+    "ran",
+    "run",
+    "runs"
+   ],
+   "a": 2,
+   "ex": "running 是 run 重複字尾 n 再加 ing；原形是 run。",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-12",
+   "q": "swim 的現在進行式（V-ing）正確寫法是？",
+   "o": [
+    "swiming",
+    "swimming",
+    "swimmig",
+    "swims"
+   ],
+   "a": 1,
+   "ex": "swim 要重複字尾 m 再加 ing：swimming。",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-13",
+   "q": "選出正確的字填入句子：___ they playing basketball?",
+   "o": [
+    "Is",
+    "Do",
+    "Am",
+    "Are"
+   ],
+   "a": 3,
+   "ex": "主詞 they 搭配 be 動詞 are：Are they playing...?",
+   "g": 4,
+   "s": 2,
+   "u": "Actions You Are Doing（正在做的動作）"
+  },
+  {
+   "id": "e42-14",
+   "q": "選出正確的回答：Where's Dad?",
+   "o": [
+    "He's a cook.",
+    "Yes, he is.",
+    "It's a kitchen.",
+    "He's in the kitchen."
+   ],
+   "a": 3,
+   "ex": "Where 問「在哪裡」，用 He's in the ___. 回答地點。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-15",
+   "q": "單字 bathroom 的中文意思是？",
+   "o": [
+    "臥室",
+    "浴室",
+    "廚房",
+    "客廳"
+   ],
+   "a": 1,
+   "ex": "bathroom 是浴室；bedroom 是臥室。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-16",
+   "q": "「客廳」的英文是？",
+   "o": [
+    "living room",
+    "bedroom",
+    "bathroom",
+    "classroom"
+   ],
+   "a": 0,
+   "ex": "living room 是客廳；bedroom 是臥室。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-17",
+   "q": "選出正確的字填入句子：Mom is cooking in the ___.",
+   "o": [
+    "bedroom",
+    "bathroom",
+    "kitchen",
+    "living room"
+   ],
+   "a": 2,
+   "ex": "煮飯（cooking）的地方是 kitchen（廚房）。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-18",
+   "q": "選出「臥室」的正確拼法。",
+   "o": [
+    "badroom",
+    "bedroom",
+    "bedrom",
+    "bedroome"
+   ],
+   "a": 1,
+   "ex": "「臥室」是 bed（床）＋ room（房間）：bedroom。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-19",
+   "q": "選出正確的字填入句子：Where ___ your sister? She's in her bedroom.",
+   "o": [
+    "are",
+    "do",
+    "am",
+    "is"
+   ],
+   "a": 3,
+   "ex": "your sister 是單數，be 動詞用 is。",
+   "g": 4,
+   "s": 2,
+   "u": "Rooms in the House（房間）"
+  },
+  {
+   "id": "e42-20",
+   "q": "球在箱子「裡面」。選出正確的字：The ball is ___ the box.",
+   "o": [
+    "on",
+    "under",
+    "in",
+    "at"
+   ],
+   "a": 2,
+   "ex": "in 是在裡面；on 是在上面、under 是在下面。",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e42-21",
+   "q": "貓在桌子「下面」。選出正確的字：The cat is ___ the table.",
+   "o": [
+    "under",
+    "in",
+    "on",
+    "by"
+   ],
+   "a": 0,
+   "ex": "under 是在下面。",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e42-22",
+   "q": "書在書桌「上面」。選出正確的字：The book is ___ the desk.",
+   "o": [
+    "on",
+    "in",
+    "under",
+    "of"
+   ],
+   "a": 0,
+   "ex": "on 是在上面。",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e42-23",
+   "q": "選出正確的回答：Where's my pen?",
+   "o": [
+    "It's red.",
+    "Yes, it is.",
+    "It's on the chair.",
+    "It's a pen."
+   ],
+   "a": 2,
+   "ex": "Where 問位置，要回答地點：It's on the chair.",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e42-24",
+   "q": "選出「桌子」的正確拼法。",
+   "o": [
+    "table",
+    "tabel",
+    "tabble",
+    "teble"
+   ],
+   "a": 0,
+   "ex": "「桌子」的正確拼法是 t-a-b-l-e。",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e42-25",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Where the dog is?",
+    "The dog where is?",
+    "Is where the dog?",
+    "Where is the dog?"
+   ],
+   "a": 3,
+   "ex": "疑問詞 Where 放句首，接 be 動詞 is，再接主詞。",
+   "g": 4,
+   "s": 2,
+   "u": "Where Things Are（位置）"
+  },
+  {
+   "id": "e51-01",
+   "q": "選出正確的回答：Where are you going?",
+   "o": [
+    "I going to the park.",
+    "Yes, I am.",
+    "I'm going to the park.",
+    "I'm in the park."
+   ],
+   "a": 2,
+   "ex": "問「你要去哪裡」用 I'm going to the ___. 回答；I'm in the park. 是「我在公園裡」，沒有回答要去哪。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-02",
+   "q": "單字 library 的中文意思是？",
+   "o": [
+    "圖書館",
+    "超市",
+    "郵局",
+    "醫院"
+   ],
+   "a": 0,
+   "ex": "library 是圖書館。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-03",
+   "q": "「郵局」的英文是？",
+   "o": [
+    "police station",
+    "bookstore",
+    "hospital",
+    "post office"
+   ],
+   "a": 3,
+   "ex": "post office 是郵局；police station 是警察局。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-04",
+   "q": "選出正確的字填入句子：She is going ___ the supermarket.",
+   "o": [
+    "at",
+    "to",
+    "on",
+    "in"
+   ],
+   "a": 1,
+   "ex": "be going to ＋地點，表示要去某地。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-05",
+   "q": "選出「公園」的正確拼法。",
+   "o": [
+    "park",
+    "pak",
+    "parck",
+    "parc"
+   ],
+   "a": 0,
+   "ex": "「公園」的正確拼法是 p-a-r-k。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-06",
+   "q": "選出正確的字填入句子：Where ___ they going?",
+   "o": [
+    "is",
+    "do",
+    "are",
+    "am"
+   ],
+   "a": 2,
+   "ex": "主詞 they 搭配 be 動詞 are。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "I going am to the library.",
+    "I am going to the library.",
+    "To the library am I going.",
+    "I am to the library going."
+   ],
+   "a": 1,
+   "ex": "直述句：主詞＋ am going to ＋地點。",
+   "g": 5,
+   "s": 1,
+   "u": "Where Are You Going?（社區場所）"
+  },
+  {
+   "id": "e51-08",
+   "q": "選出正確的回答：What do you see?",
+   "o": [
+    "Yes, I see.",
+    "I am a lion.",
+    "It sees me.",
+    "I see two lions."
+   ],
+   "a": 3,
+   "ex": "What do you see? 問「你看到什麼」，用 I see ___. 回答。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-09",
+   "q": "單字 elephant 的中文意思是？",
+   "o": [
+    "獅子",
+    "長頸鹿",
+    "河馬",
+    "大象"
+   ],
+   "a": 3,
+   "ex": "elephant 是大象。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-10",
+   "q": "「猴子」的英文是？",
+   "o": [
+    "donkey",
+    "monkey",
+    "tiger",
+    "bear"
+   ],
+   "a": 1,
+   "ex": "monkey 是猴子；donkey 是驢子，拼字很像要小心。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-11",
+   "q": "選出正確的字填入句子：I see three ___.",
+   "o": [
+    "bird",
+    "birdes",
+    "birds",
+    "a bird"
+   ],
+   "a": 2,
+   "ex": "three（三）後面的名詞要加 s 變複數：three birds。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-12",
+   "q": "選出「老虎」的正確拼法。",
+   "o": [
+    "tiger",
+    "tigar",
+    "tigger",
+    "tyger"
+   ],
+   "a": 0,
+   "ex": "「老虎」的正確拼法是 t-i-g-e-r。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-13",
+   "q": "sheep（綿羊）的複數是？",
+   "o": [
+    "sheep",
+    "sheeps",
+    "sheepes",
+    "shoop"
+   ],
+   "a": 0,
+   "ex": "sheep 的單複數同形，不加 s。",
+   "g": 5,
+   "s": 1,
+   "u": "What Do You See?（動物）"
+  },
+  {
+   "id": "e51-14",
+   "q": "選出正確的回答：What would you like for dinner?",
+   "o": [
+    "I'd like eat chicken.",
+    "Yes, I would like.",
+    "I'd like some chicken.",
+    "I have dinner at six."
+   ],
+   "a": 2,
+   "ex": "would like 後面接名詞：I'd like some chicken.；若接動詞要用 to ＋原形。",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-15",
+   "q": "「你早餐想吃什麼？」英文怎麼說？",
+   "o": [
+    "What would you like breakfast for?",
+    "What do you like for the breakfast?",
+    "What would you want like breakfast?",
+    "What would you like for breakfast?"
+   ],
+   "a": 3,
+   "ex": "詢問三餐想吃什麼：What would you like for ＋餐名。",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-16",
+   "q": "I'd like 是哪兩個字的縮寫？",
+   "o": [
+    "I had like",
+    "I would like",
+    "I do like",
+    "I am like"
+   ],
+   "a": 1,
+   "ex": "I'd like = I would like，表示「我想要」。",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-17",
+   "q": "單字 breakfast 的中文意思是？",
+   "o": [
+    "午餐",
+    "晚餐",
+    "早餐",
+    "點心"
+   ],
+   "a": 2,
+   "ex": "breakfast 是早餐；lunch 是午餐、dinner 是晚餐。",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-18",
+   "q": "選出「晚餐」的正確拼法。",
+   "o": [
+    "dinner",
+    "diner",
+    "dinnar",
+    "dener"
+   ],
+   "a": 0,
+   "ex": "「晚餐」的正確拼法是 d-i-n-n-e-r，有兩個 n。",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-19",
+   "q": "選出正確的回答：Would you like some soup?",
+   "o": [
+    "Yes, I like.",
+    "Yes, please.",
+    "Yes, I am.",
+    "No, I like."
+   ],
+   "a": 1,
+   "ex": "Would you like...? 客氣的回答是 Yes, please. 或 No, thank you.",
+   "g": 5,
+   "s": 1,
+   "u": "What Would You Like for Dinner?（三餐）"
+  },
+  {
+   "id": "e51-20",
+   "q": "選出正確的回答：How do you feel?",
+   "o": [
+    "I'm ten.",
+    "It's sunny.",
+    "Yes, I do.",
+    "I'm happy."
+   ],
+   "a": 3,
+   "ex": "How do you feel? 問心情，用 I'm ＋情緒形容詞回答。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e51-21",
+   "q": "單字 angry 的中文意思是？",
+   "o": [
+    "開心的",
+    "難過的",
+    "害怕的",
+    "生氣的"
+   ],
+   "a": 3,
+   "ex": "angry 是生氣的。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e51-22",
+   "q": "「害怕的」英文是？",
+   "o": [
+    "sad",
+    "scared",
+    "angry",
+    "tired"
+   ],
+   "a": 1,
+   "ex": "scared 是害怕的；sad 是難過的。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e51-23",
+   "q": "選出正確的字填入句子：I lost my dog. I feel very ___.",
+   "o": [
+    "happy",
+    "hungry",
+    "excited",
+    "sad"
+   ],
+   "a": 3,
+   "ex": "狗不見了會難過，用 sad（難過的）。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e51-24",
+   "q": "選出「疲累的」的正確拼法。",
+   "o": [
+    "tired",
+    "tried",
+    "tird",
+    "tierd"
+   ],
+   "a": 0,
+   "ex": "「疲累的」是 t-i-r-e-d；tried 是 try 的過去式，拼字很像。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e51-25",
+   "q": "選出正確的字填入句子：How ___ she feel?",
+   "o": [
+    "do",
+    "is",
+    "does",
+    "are"
+   ],
+   "a": 2,
+   "ex": "主詞 she 是第三人稱單數，助動詞用 does。",
+   "g": 5,
+   "s": 1,
+   "u": "How Do You Feel?（感覺、情緒）"
+  },
+  {
+   "id": "e52-01",
+   "q": "選出正確的回答：What day is today?",
+   "o": [
+    "It's ten o'clock.",
+    "It's May.",
+    "It's sunny.",
+    "It's Wednesday."
+   ],
+   "a": 3,
+   "ex": "What day 問星期幾，回答星期，例如 It's Wednesday.",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-02",
+   "q": "單字 Sunday 的中文意思是？",
+   "o": [
+    "星期日",
+    "星期一",
+    "星期六",
+    "星期三"
+   ],
+   "a": 0,
+   "ex": "Sunday 是星期日；Monday 是星期一。",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-03",
+   "q": "「星期五」的英文是？",
+   "o": [
+    "Thursday",
+    "Tuesday",
+    "Friday",
+    "Saturday"
+   ],
+   "a": 2,
+   "ex": "Friday 是星期五；Thursday 是星期四。",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-04",
+   "q": "星期二（Tuesday）的隔天是星期幾？英文是？",
+   "o": [
+    "Monday",
+    "Thursday",
+    "Sunday",
+    "Wednesday"
+   ],
+   "a": 3,
+   "ex": "星期順序：Tuesday（二）的隔天是 Wednesday（三）。",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-05",
+   "q": "選出「星期三」的正確拼法。",
+   "o": [
+    "Wensday",
+    "Wednesday",
+    "Wednseday",
+    "Wendesday"
+   ],
+   "a": 1,
+   "ex": "Wednesday 拼法特別：W-e-d-n-e-s-d-a-y。",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-06",
+   "q": "選出正確的字填入句子：What day ___ today?",
+   "o": [
+    "are",
+    "do",
+    "is",
+    "does"
+   ],
+   "a": 2,
+   "ex": "問星期幾用 be 動詞 is：What day is today?",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "What day is today?",
+    "What is day today?",
+    "Day what is today?",
+    "What today is day?"
+   ],
+   "a": 0,
+   "ex": "疑問詞 What day 放句首，再接 is today。",
+   "g": 5,
+   "s": 2,
+   "u": "Days of the Week（星期）"
+  },
+  {
+   "id": "e52-08",
+   "q": "選出正確的回答：Do you like math class?",
+   "o": [
+    "Yes, I do.",
+    "Yes, I like.",
+    "Yes, I am.",
+    "No, I do."
+   ],
+   "a": 0,
+   "ex": "Do 問句用 do 簡答：Yes, I do. 或 No, I don't.",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-09",
+   "q": "單字 music 的中文意思是？",
+   "o": [
+    "美術",
+    "體育",
+    "音樂",
+    "數學"
+   ],
+   "a": 2,
+   "ex": "music 是音樂；art 是美術。",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-10",
+   "q": "「英語課」的英文是？",
+   "o": [
+    "math class",
+    "English class",
+    "art class",
+    "science class"
+   ],
+   "a": 1,
+   "ex": "English class 是英語課；math 是數學。",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-11",
+   "q": "選出正確的字填入句子：We have ___ on Monday. I like drawing in that class.",
+   "o": [
+    "music class",
+    "math class",
+    "PE class",
+    "art class"
+   ],
+   "a": 3,
+   "ex": "drawing 是畫畫，畫畫的課是 art class（美術課）。",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-12",
+   "q": "選出「科學／自然」的正確拼法。",
+   "o": [
+    "sciense",
+    "sceince",
+    "sience",
+    "science"
+   ],
+   "a": 3,
+   "ex": "「科學」的正確拼法是 s-c-i-e-n-c-e。",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-13",
+   "q": "選出正確的字填入句子：___ you have English class today?",
+   "o": [
+    "Are",
+    "Do",
+    "Is",
+    "Does"
+   ],
+   "a": 1,
+   "ex": "主詞是 you，問句用助動詞 Do。",
+   "g": 5,
+   "s": 2,
+   "u": "Subjects（科目）"
+  },
+  {
+   "id": "e52-14",
+   "q": "選出正確的回答：What do you need?",
+   "o": [
+    "I need an umbrella.",
+    "Yes, I need.",
+    "I am an umbrella.",
+    "It needs me."
+   ],
+   "a": 0,
+   "ex": "What do you need? 問「你需要什麼」，用 I need ___. 回答。",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-15",
+   "q": "選出正確的字填入句子：It's rainy. I need ___ umbrella.",
+   "o": [
+    "a",
+    "am",
+    "an",
+    "are"
+   ],
+   "a": 2,
+   "ex": "umbrella 開頭是母音 u 的音，冠詞用 an。",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-16",
+   "q": "單字 need 的中文意思是？",
+   "o": [
+    "想要",
+    "需要",
+    "喜歡",
+    "擁有"
+   ],
+   "a": 1,
+   "ex": "need 是需要；want 是想要、like 是喜歡。",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-17",
+   "q": "「我不需要帽子。」英文怎麼說？",
+   "o": [
+    "I not need a hat.",
+    "I don't needs a hat.",
+    "I no need a hat.",
+    "I don't need a hat."
+   ],
+   "a": 3,
+   "ex": "一般動詞否定句用 don't ＋原形動詞：I don't need...",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-18",
+   "q": "選出「雨傘」的正確拼法。",
+   "o": [
+    "umbrela",
+    "unbrella",
+    "umbrella",
+    "umbrellla"
+   ],
+   "a": 2,
+   "ex": "「雨傘」的正確拼法是 u-m-b-r-e-l-l-a，有兩個 l。",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-19",
+   "q": "選出正確的字填入句子：He ___ a new backpack.",
+   "o": [
+    "needs",
+    "need",
+    "needing",
+    "is need"
+   ],
+   "a": 0,
+   "ex": "主詞 He 是第三人稱單數，動詞加 s：needs。",
+   "g": 5,
+   "s": 2,
+   "u": "Things That People Need（物品）"
+  },
+  {
+   "id": "e52-20",
+   "q": "選出正確的回答：How much is the shirt?",
+   "o": [
+    "It's two hundred dollars.",
+    "It's two o'clock.",
+    "They're two hundred dollars.",
+    "Yes, it is."
+   ],
+   "a": 0,
+   "ex": "How much 問價錢；the shirt 是單數，用 It's ___ dollars. 回答。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e52-21",
+   "q": "「這件裙子多少錢？」英文怎麼說？",
+   "o": [
+    "How many is the skirt?",
+    "How much are the skirt?",
+    "How much is the skirt?",
+    "How much the skirt is?"
+   ],
+   "a": 2,
+   "ex": "問價錢用 How much；the skirt 單數配 is。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e52-22",
+   "q": "單字 jacket 的中文意思是？",
+   "o": [
+    "夾克（外套）",
+    "裙子",
+    "褲子",
+    "帽子"
+   ],
+   "a": 0,
+   "ex": "jacket 是夾克、外套；skirt 是裙子。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e52-23",
+   "q": "選出正確的字填入句子：How much ___ the shoes?",
+   "o": [
+    "is",
+    "do",
+    "am",
+    "are"
+   ],
+   "a": 3,
+   "ex": "shoes（鞋子）是複數，be 動詞用 are。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e52-24",
+   "q": "選出「褲子」的正確拼法。",
+   "o": [
+    "pents",
+    "pants",
+    "paants",
+    "pans"
+   ],
+   "a": 1,
+   "ex": "「褲子」的正確拼法是 p-a-n-t-s；pans 是平底鍋。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e52-25",
+   "q": "選出正確的字填入句子：The cap is one ___ dollars.",
+   "o": [
+    "hundreds",
+    "hundred",
+    "hundredth",
+    "hundred of"
+   ],
+   "a": 1,
+   "ex": "數字＋ hundred 不加 s：one hundred dollars（一百元）。",
+   "g": 5,
+   "s": 2,
+   "u": "The Cost of Clothing（衣物價格）"
+  },
+  {
+   "id": "e61-01",
+   "q": "選出正確的回答：Where are you from?",
+   "o": [
+    "I'm Taiwan.",
+    "I from Taiwan.",
+    "Yes, I am.",
+    "I'm from Taiwan."
+   ],
+   "a": 3,
+   "ex": "問「你來自哪裡」，用 I'm from ＋國家回答。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-02",
+   "q": "單字 Japan 的中文意思是？",
+   "o": [
+    "韓國",
+    "日本",
+    "中國",
+    "泰國"
+   ],
+   "a": 1,
+   "ex": "Japan 是日本；Korea 是韓國。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-03",
+   "q": "「美國」的英文是？",
+   "o": [
+    "America",
+    "American",
+    "England",
+    "Africa"
+   ],
+   "a": 0,
+   "ex": "America 是美國（國家）；American 是美國人／美國的。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-04",
+   "q": "選出正確的字填入句子：He is ___ Korea.",
+   "o": [
+    "come",
+    "of",
+    "from",
+    "at"
+   ],
+   "a": 2,
+   "ex": "be 動詞＋ from ＋國家，表示來自某國。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-05",
+   "q": "選出「加拿大」的正確拼法。",
+   "o": [
+    "Canadia",
+    "Canada",
+    "Cannada",
+    "Kanada"
+   ],
+   "a": 1,
+   "ex": "「加拿大」的正確拼法是 C-a-n-a-d-a。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-06",
+   "q": "選出正確的字填入句子：Is he from the UK? No, he ___.",
+   "o": [
+    "doesn't",
+    "not",
+    "aren't",
+    "isn't"
+   ],
+   "a": 3,
+   "ex": "Is 問句用 be 動詞否定簡答：No, he isn't.",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "Where she is from?",
+    "From where she is?",
+    "Where from is she?",
+    "Where is she from?"
+   ],
+   "a": 3,
+   "ex": "疑問詞 Where 開頭，接 be 動詞 is，再接主詞 she，最後 from。",
+   "g": 6,
+   "s": 1,
+   "u": "Where Are You From?（國家）"
+  },
+  {
+   "id": "e61-08",
+   "q": "選出正確的回答：How can we get to Taipei 101?",
+   "o": [
+    "We can go by the foots.",
+    "We can go by MRT.",
+    "Yes, we can.",
+    "It's Taipei 101."
+   ],
+   "a": 1,
+   "ex": "問怎麼去某地，用 We can go by ＋交通工具回答。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-09",
+   "q": "「走路（去）」的正確英文說法是？",
+   "o": [
+    "by foot",
+    "on feet",
+    "on foot",
+    "by walk"
+   ],
+   "a": 2,
+   "ex": "「走路去」固定用 on foot，不用 by foot。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-10",
+   "q": "單字 train 的中文意思是？",
+   "o": [
+    "火車",
+    "公車",
+    "飛機",
+    "船"
+   ],
+   "a": 0,
+   "ex": "train 是火車；bus 是公車、plane 是飛機。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-11",
+   "q": "「公車」的英文是？",
+   "o": [
+    "bus",
+    "bike",
+    "car",
+    "taxi"
+   ],
+   "a": 0,
+   "ex": "bus 是公車；bike 是腳踏車、taxi 是計程車。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-12",
+   "q": "選出正確的字填入句子：We go to school ___ bus.",
+   "o": [
+    "on",
+    "in",
+    "by",
+    "at"
+   ],
+   "a": 2,
+   "ex": "by ＋交通工具（by bus、by car）表示搭乘方式。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-13",
+   "q": "選出「腳踏車」的正確拼法。",
+   "o": [
+    "bicicle",
+    "bycicle",
+    "bisycle",
+    "bicycle"
+   ],
+   "a": 3,
+   "ex": "「腳踏車」的正確拼法是 b-i-c-y-c-l-e。",
+   "g": 6,
+   "s": 1,
+   "u": "How Can We Get to Taipei 101?（交通工具）"
+  },
+  {
+   "id": "e61-14",
+   "q": "選出正確的回答：What time do you get up?",
+   "o": [
+    "I get up on six thirty.",
+    "I get up at six thirty.",
+    "Yes, I do.",
+    "I am six thirty."
+   ],
+   "a": 1,
+   "ex": "時刻前面用介係詞 at：at six thirty。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-15",
+   "q": "「我七點吃早餐。」英文怎麼說？",
+   "o": [
+    "I eat breakfast in seven.",
+    "I eats breakfast at seven.",
+    "I eat breakfast at seven.",
+    "I eat at breakfast seven."
+   ],
+   "a": 2,
+   "ex": "主詞 I 動詞用原形 eat；時刻用 at seven。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-16",
+   "q": "get up 的中文意思是？",
+   "o": [
+    "起床",
+    "睡覺",
+    "上學",
+    "吃飯"
+   ],
+   "a": 0,
+   "ex": "get up 是起床；go to bed 是上床睡覺。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-17",
+   "q": "選出正確的字填入句子：He ___ to bed at nine every day.",
+   "o": [
+    "go",
+    "goes",
+    "going",
+    "gos"
+   ],
+   "a": 1,
+   "ex": "主詞 He 是第三人稱單數，go 要變 goes。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-18",
+   "q": "選出正確的字填入句子：I brush my ___ every morning.（刷牙）",
+   "o": [
+    "tooth",
+    "tooths",
+    "teeths",
+    "teeth"
+   ],
+   "a": 3,
+   "ex": "tooth（牙齒）的複數是 teeth；刷牙用 brush my teeth。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-19",
+   "q": "選出正確的字填入句子：What time ___ she go to school?",
+   "o": [
+    "do",
+    "is",
+    "are",
+    "does"
+   ],
+   "a": 3,
+   "ex": "主詞 she 是第三人稱單數，助動詞用 does。",
+   "g": 6,
+   "s": 1,
+   "u": "What Time Do You Get Up?（日常作息）"
+  },
+  {
+   "id": "e61-20",
+   "q": "選出正確的回答：What's wrong?",
+   "o": [
+    "I'm a doctor.",
+    "I have a headache.",
+    "Yes, I do.",
+    "It's my head."
+   ],
+   "a": 1,
+   "ex": "What's wrong? 問「怎麼了」，可以回答身體不舒服：I have a ___.",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e61-21",
+   "q": "單字 stomachache 的中文意思是？",
+   "o": [
+    "頭痛",
+    "牙痛",
+    "喉嚨痛",
+    "肚子痛（胃痛）"
+   ],
+   "a": 3,
+   "ex": "stomach 是胃、肚子，stomachache 是肚子痛。",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e61-22",
+   "q": "「發燒」的英文是？",
+   "o": [
+    "fever",
+    "cold",
+    "cough",
+    "headache"
+   ],
+   "a": 0,
+   "ex": "fever 是發燒；cold 是感冒、cough 是咳嗽。",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e61-23",
+   "q": "選出正確的字填入句子：___ you have a toothache?",
+   "o": [
+    "Are",
+    "Does",
+    "Do",
+    "Is"
+   ],
+   "a": 2,
+   "ex": "主詞是 you，問句用助動詞 Do。",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e61-24",
+   "q": "選出「頭痛」的正確拼法。",
+   "o": [
+    "headake",
+    "hedache",
+    "headache",
+    "headach"
+   ],
+   "a": 2,
+   "ex": "「頭痛」是 head（頭）＋ ache（痛）：headache。",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e61-25",
+   "q": "選出正確的字填入句子：He is sick. He should see a ___.",
+   "o": [
+    "doctor",
+    "teacher",
+    "farmer",
+    "driver"
+   ],
+   "a": 0,
+   "ex": "生病（sick）要去看醫生（doctor）。",
+   "g": 6,
+   "s": 1,
+   "u": "Do You Have a Stomachache?（病症）"
+  },
+  {
+   "id": "e62-01",
+   "q": "選出正確的回答：What do you do after school?",
+   "o": [
+    "I am basketball.",
+    "Yes, I do.",
+    "I play basketball.",
+    "I played basketball yesterday."
+   ],
+   "a": 2,
+   "ex": "問平常放學後做什麼，用現在式回答；played 是過去式，不合題意。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-02",
+   "q": "「我放學後看電視。」英文怎麼說？",
+   "o": [
+    "I watching TV after school.",
+    "I watch TV before school.",
+    "After school I am watch TV.",
+    "I watch TV after school."
+   ],
+   "a": 3,
+   "ex": "表示習慣用現在簡單式 watch；after school 是放學後。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-03",
+   "q": "do my homework 的中文意思是？",
+   "o": [
+    "打掃房間",
+    "做功課",
+    "看電視",
+    "去補習班"
+   ],
+   "a": 1,
+   "ex": "homework 是功課，do my homework 是做功課。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-04",
+   "q": "選出正確的字填入句子：She ___ the piano after school.",
+   "o": [
+    "play",
+    "playing",
+    "plays",
+    "is play"
+   ],
+   "a": 2,
+   "ex": "主詞 She 是第三人稱單數，動詞加 s：plays。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-05",
+   "q": "選出「籃球」的正確拼法。",
+   "o": [
+    "basketball",
+    "basketbal",
+    "baskitball",
+    "basketboll"
+   ],
+   "a": 0,
+   "ex": "「籃球」是 basket（籃）＋ ball（球）：basketball。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-06",
+   "q": "「上網」的正確英文說法是？",
+   "o": [
+    "surf the Internet",
+    "look the Internet",
+    "play the Internet",
+    "see the Internet"
+   ],
+   "a": 0,
+   "ex": "上網的固定說法是 surf the Internet。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-07",
+   "q": "選出字序正確的句子。",
+   "o": [
+    "What he does do after school?",
+    "What do he does after school?",
+    "What does he do after school?",
+    "Does what he do after school?"
+   ],
+   "a": 2,
+   "ex": "疑問詞 What ＋ does ＋主詞＋原形動詞 do。",
+   "g": 6,
+   "s": 2,
+   "u": "After-School Activities（課後活動）"
+  },
+  {
+   "id": "e62-08",
+   "q": "選出正確的回答：What do you want to be?",
+   "o": [
+    "I want to be sing.",
+    "I want to be a singer.",
+    "I want a be singer.",
+    "Yes, I want."
+   ],
+   "a": 1,
+   "ex": "want to be ＋職業名詞：I want to be a singer.",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-09",
+   "q": "「她想當護理師。」英文怎麼說？",
+   "o": [
+    "She want to be a nurse.",
+    "She wants to is a nurse.",
+    "She wants be to a nurse.",
+    "She wants to be a nurse."
+   ],
+   "a": 3,
+   "ex": "主詞 She 動詞加 s（wants)；to 後面接原形 be。",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-10",
+   "q": "police officer 的中文意思是？",
+   "o": [
+    "消防員",
+    "郵差",
+    "法官",
+    "警察"
+   ],
+   "a": 3,
+   "ex": "police officer 是警察；firefighter 是消防員。",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-11",
+   "q": "「作家」的英文是？",
+   "o": [
+    "driver",
+    "writer",
+    "singer",
+    "painter"
+   ],
+   "a": 1,
+   "ex": "writer 是作家；driver 是司機、painter 是畫家。",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-12",
+   "q": "選出正確的字填入句子：He wants to ___ a cook.",
+   "o": [
+    "be",
+    "is",
+    "are",
+    "being"
+   ],
+   "a": 0,
+   "ex": "to 後面接原形動詞，be 動詞的原形是 be。",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-13",
+   "q": "選出「護理師」的正確拼法。",
+   "o": [
+    "nurce",
+    "nures",
+    "nurse",
+    "nurs"
+   ],
+   "a": 2,
+   "ex": "「護理師」的正確拼法是 n-u-r-s-e。",
+   "g": 6,
+   "s": 2,
+   "u": "Jobs（職業）"
+  },
+  {
+   "id": "e62-14",
+   "q": "選出正確的字填入句子：Where ___ you last night?",
+   "o": [
+    "was",
+    "were",
+    "are",
+    "did"
+   ],
+   "a": 1,
+   "ex": "last night 是過去時間；主詞 you 的 be 動詞過去式用 were。",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-15",
+   "q": "選出正確的字填入句子：I ___ at home yesterday.",
+   "o": [
+    "were",
+    "am",
+    "is",
+    "was"
+   ],
+   "a": 3,
+   "ex": "主詞 I 的 be 動詞過去式是 was。",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-16",
+   "q": "選出正確的回答：Were you at the park yesterday?",
+   "o": [
+    "Yes, I were.",
+    "Yes, I am.",
+    "Yes, I was.",
+    "Yes, I did."
+   ],
+   "a": 2,
+   "ex": "Were you...? 的簡答：Yes, I was. / No, I wasn't.",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-17",
+   "q": "選出正確的字填入句子：They ___ in the classroom this morning.",
+   "o": [
+    "were",
+    "was",
+    "are",
+    "be"
+   ],
+   "a": 0,
+   "ex": "this morning 表示過去；主詞 They 用 were。",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-18",
+   "q": "「昨天」的英文是？",
+   "o": [
+    "yesterday",
+    "today",
+    "tomorrow",
+    "tonight"
+   ],
+   "a": 0,
+   "ex": "yesterday 是昨天；tomorrow 是明天。",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-19",
+   "q": "was 是下列哪一個字的過去式？",
+   "o": [
+    "are",
+    "do",
+    "is",
+    "can"
+   ],
+   "a": 2,
+   "ex": "is（和 am）的過去式是 was；are 的過去式是 were。",
+   "g": 6,
+   "s": 2,
+   "u": "Time in the Past（過去時間）"
+  },
+  {
+   "id": "e62-20",
+   "q": "選出正確的回答：Did you go to Kenting last summer?",
+   "o": [
+    "Yes, I did.",
+    "Yes, I do.",
+    "Yes, I was.",
+    "No, I did."
+   ],
+   "a": 0,
+   "ex": "Did 問句用 did 簡答：Yes, I did. / No, I didn't.",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  },
+  {
+   "id": "e62-21",
+   "q": "go 的過去式是？",
+   "o": [
+    "goed",
+    "gone",
+    "goes",
+    "went"
+   ],
+   "a": 3,
+   "ex": "go 是不規則動詞，過去式是 went；gone 是過去分詞。",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  },
+  {
+   "id": "e62-22",
+   "q": "選出正確的字填入句子：I ___ a movie last night.",
+   "o": [
+    "see",
+    "saw",
+    "sees",
+    "seeing"
+   ],
+   "a": 1,
+   "ex": "last night 是過去時間，see 的過去式是 saw。",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  },
+  {
+   "id": "e62-23",
+   "q": "「我上週末去了動物園。」英文怎麼說？",
+   "o": [
+    "I go to the zoo last weekend.",
+    "I went to the zoo last weekend.",
+    "I goed to the zoo last weekend.",
+    "I went the zoo to last weekend."
+   ],
+   "a": 1,
+   "ex": "過去時間 last weekend 動詞用過去式 went；went to ＋地點。",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  },
+  {
+   "id": "e62-24",
+   "q": "eat 的過去式正確寫法是？",
+   "o": [
+    "eated",
+    "eaten",
+    "eats",
+    "ate"
+   ],
+   "a": 3,
+   "ex": "eat 是不規則動詞，過去式是 ate；eaten 是過去分詞。",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  },
+  {
+   "id": "e62-25",
+   "q": "選出正確的字填入句子：___ she visit her grandma last Sunday?",
+   "o": [
+    "Did",
+    "Does",
+    "Do",
+    "Was"
+   ],
+   "a": 0,
+   "ex": "last Sunday 是過去時間，問句用 Did ＋主詞＋原形動詞。",
+   "g": 6,
+   "s": 2,
+   "u": "Places That You Have Visited（去過的地點）"
+  }
+ ]
+}
